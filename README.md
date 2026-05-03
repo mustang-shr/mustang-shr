@@ -35,28 +35,6 @@ shreyan = {
 
 ---
 
-## 🚀 Production AI @ Capgemini — What I Actually Built
-
-> **Multi-Agent AI Advertising Automation** for a global banking client
-
-```
-Adobe Analytics signals  ──►  PostgreSQL (composite-indexed, sub-100ms retrieval)
-                                    │
-                    ┌───────────────┼────────────────┐
-                    ▼               ▼                ▼
-             [Caption Agent]  [Image Agent]  [Compliance Agent]
-             Google ADK       Google ADK     Regulation check loop
-             LangChain        LangChain      LangGraph orchestration
-                    └───────────────┼────────────────┘
-                                    ▼
-                     GraphQL + FastAPI segmentation APIs
-                     (location · salary · credit history)
-                                    ▼
-                     Personalized push · email campaigns
-                     ► ~30% reduction in manual campaign setup
-```
-
----
 
 ## ⚡ Featured Projects
 
