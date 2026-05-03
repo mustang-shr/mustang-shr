@@ -1,132 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Shreyan%20Pal&fontSize=60&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Hardware%20Builder&descAlignY=58&descColor=a0aec0" width="100%"/>
+<!-- HERO SECTION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f23,50:1a1a3e,100:0d1117&height=200&section=header&text=Shreyan%20Pal&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Building%20AI%20that%20makes%20real%20decisions%20in%20production&descAlignY=55&descColor=8b949e&descSize=16"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+Multi-Agent+AI+Systems+%F0%9F%A4%96;Java+Dev+for+10%2B+Years+%E2%98%95;FastAPI+%7C+Google+ADK+%7C+PostgreSQL;From+EMG+Signals+to+Servo+Motors+%F0%9F%A6%BE;Grand+Finalist+%40+IIT+Madras+TVS+Challenge)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=LangGraph+%C2%B7+Google+ADK+%C2%B7+FastAPI+%C2%B7+Multi-Agent+Systems;Production+AI+at+Global+Banking+Scale;RAG+%C2%B7+pgvector+%C2%B7+AWS+%C2%B7+React.js;Not+a+demo+builder.+A+production+engineer.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shreyan--pal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyan-pal)
+[![Gmail](https://img.shields.io/badge/Gmail-shreyan826905@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyan826905@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mustang--shr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mustang-shr)
+[![Profile Views](https://komarev.com/ghpvc/?username=mustang-shr&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/mustang-shr)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ Who Am I
 
-```python
-shreyan = {
-    "role"       : "Software Engineer @ Capgemini, Bengaluru",
-    "education"  : "B.Tech ECE — KIIT University (2021–2025)",
-    "languages"  : ["Java ☕ (10+ yrs)", "Python 🐍", "C++", "TypeScript"],
-    "domains"    : ["Multi-Agent AI", "Backend Systems", "Embedded Hardware"],
-    "currently"  : "Building autonomous AI agents for a global banking client",
-    "building"   : "CareerOS — Multi-agent career platform (Google ADK)",
-    "contrib"    : "memlocal @ Antimattr — On-device LLM memory (Nikhil Kamath backed)",
-    "fun_fact"   : "I built a myoelectric prosthetic arm from EMG signals + Arduino 🦾"
-}
-```
+> *Most "AI engineers" build demos. I build things that run in production — at a global bank, at 3am, with real decisions being made.*
 
----
+I'm a **Software Engineer @ Capgemini** building **multi-agent AI systems** for enterprise clients. I don't write chatbot wrappers — I engineer **LangGraph + Google ADK orchestration pipelines** that run compliance checks, generate ad copy, trigger on real-time signals, and deliver personalized campaigns **at banking scale**.
 
-## 🚀 What I'm Building at Capgemini
+Before going deep into AI, I spent 8 months on the phone with **CFOs and VPs across LATAM, EMEA, and APAC**, diagnosing broken **Order-to-Cash and invoice workflows**. That's where I learned what enterprise operations look like beneath the surface — and why **AI agents that understand business context** are actually worth building.
 
-> **Production Multi-Agent AI Advertising Automation** for a global banking client (HSBC)
-
-- 📊 **Ingests** Adobe Analytics signals → PostgreSQL
-- 🤖 **Parallel Google ADK agents** — caption gen, image gen, compliance-check loop, delivery
-- 🚀 **Exposes** GraphQL + FastAPI APIs for marketing teams
-- 🎯 **Segments** users by location, product, salary & credit history
-- 📧 **Delivers** personalized ads via push notifications & email
-
----
-
-## ⚡ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🦾 Myoelectric Prosthetic Arm
-**EMG signals → Arduino → Servo motors**
-
-Built a functional prosthetic that reads muscle electrical signals, processes them in real-time via Arduino C++, and translates them into precise servo motor joint angles. Research into biomimetic joint angle mapping.
-
-`C++` `Arduino` `EMG Sensing` `Servo Control` `Signal Processing`
-
-</td>
-<td width="50%">
-
-### 🏍️ TVS MITRA — Smart IoT Demo System
-**Grand Finalist — TVS Motor Innovation Challenge 2024**
-*500+ teams | IIT Madras*
-
-IoT system using ultrasonic sensors to detect customer proximity and trigger intelligent product demonstrations. Real-time hardware + embedded logic.
-
-`IoT` `Arduino` `Ultrasonic Sensors` `Embedded C++` `Product Innovation`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 CareerOS — Multi-Agent Career Platform
-**Google ADK | FastAPI | PostgreSQL**
-
-Autonomous AI system that manages the entire job-search lifecycle — resume tailoring, application tracking, outreach generation, and interview prep. Built as a potential B2B SaaS for the Indian developer market.
-
-`Google ADK` `FastAPI` `Python` `PostgreSQL` `Multi-Agent` `LangGraph`
-
-</td>
-<td width="50%">
-
-### 🧠 memlocal @ Antimattr
-**On-Device LLM Memory | Nikhil Kamath Backed**
-
-Core contributor to memlocal — an on-device memory system that slashes LLM inference latency from 150–200ms down to 1–2ms. Deep architectural knowledge of Zep, Mem0, and MemGPT.
-
-`Dart/Flutter` `On-Device AI` `LLM Memory` `Latency Optimization` `Vector Storage`
-
-</td>
-</tr>
-</table>
+- 🏦 **Production multi-agent AI** for a global banking client — ~30% reduction in manual campaign setup  
+- ⚡ **Fixed a production LLM memory bug** at a Nikhil Kamath-backed voice AI startup — latency dropped from **150ms → 1ms**  
+- 🏆 **Grand Finalist** — TVS Motor Innovation Challenge 2024 (IIT Madras, 500+ teams)  
+- 🥇 **Top 50** — Tata Imagination Challenge 2024  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 🤖 Agentic AI & LLMs
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logo=openai&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent%20Systems-F59E0B?style=flat-square&logo=probot&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-10B981?style=flat-square&logo=openai&logoColor=white)
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🔧 Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-FF5733?style=flat-square&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0078D4?style=flat-square&logo=azurepipelines&logoColor=white)
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+### 🗄️ Data & Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
 
-### Cloud & DevOps
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+---
 
-### Hardware & Embedded
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+## 🚀 What I Build
 
-</div>
+```
+🏦 ENTERPRISE AGENTIC AI         🔁 MULTI-AGENT ORCHESTRATION
+   ├── Real-time signal triggers     ├── Parallel LLM agent pipelines
+   ├── Compliance validation         ├── State management across agents  
+   ├── Personalized campaign AI      └── Sub-100ms feature retrieval
+   └── Banking-grade data integrity
+
+🔍 RAG SYSTEMS                   ⚙️  AUTOMATION PIPELINES
+   ├── pgvector infrastructure        ├── Python + n8n workflows
+   ├── Multi-database approval flows  ├── 40% ops turnaround reduction
+   └── LLM inference layers          └── AI-assisted process replacement
+```
+
+---
+
+## 💼 Experience
+
+| Role | Company | Highlight |
+|------|---------|-----------|
+| **Software Engineer** | Capgemini *(Sep 2025 – Present)* | Multi-agent AI ad platform for global banking client — Google ADK + LangGraph + LangChain |
+| **Operations Associate** | AppsForBharat *(May–Sep 2025)* | Python + n8n automation pipelines; cut ops turnaround ~40% on 100K+ user platform |
+| **ABM & Fintech Analyst** | HighRadius *(Jun 2024–Jan 2025)* | 20,000+ enterprise conversations; O2C, R2R, Treasury domain depth |
+| **Junior Developer** | Droupout *(Jun–Aug 2024)* | Full-stack EdTech SaaS on AWS — WebRTC streaming, 10K+ active learners |
 
 ---
 
@@ -134,60 +104,51 @@ Core contributor to memlocal — an on-device memory system that slashes LLM inf
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mustang-shr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=a0aec0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustang-shr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0aec0" height="165"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mustang-shr&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustang-shr&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mustang-shr&theme=tokyonight&hide_border=true&background=0D1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mustang-shr&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 Achievements & Recognition
+## 🏆 Achievements & Certifications
 
-| 🥇 Achievement | 📍 Details |
-|---|---|
-| 🏍️ **Grand Finalist** — TVS Motor Innovation Challenge 2024 | IIT Madras · 500+ competing teams |
-| 🌟 **Top 50** — Tata Imagination Challenge 2024 | Pan-India Innovation Competition |
-| 📡 **Cisco Networking Certification** | Top of Batch |
-| 🏗️ **Co-built EdTech SaaS on AWS** from scratch | @ Dreadnought |
-| 📞 **20,000+ Cold Calls** to CFOs/VPs | LATAM & EMEA markets |
-| 🧠 **Founder Recognition** | AppsForBharat |
-
----
-
-## 💼 Experience Snapshot
-
-```
- Capgemini           Software Engineer          Bengaluru, IN       2025 – Present
- AppsForBharat       Software Operations        Bengaluru, IN       May'25- Sept'25
- HighRadius          ABM Intern                 Bhubaneswar, IN     May'24 - Jan'25
- Dreadnought         Junior SDE Intern          Remote              Mar'24 - May'24
- SAIL                Industrial Training        Rourkela, IN        2023
-```
+- 🥇 **Grand Finalist** — TVS Motor Innovation Challenge 2024 @ IIT Madras *(500+ teams)*  
+- 🎯 **Top 50** — Tata Imagination Challenge 2024  
+- ☁️ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- 🤖 **Prompt Engineering for ChatGPT** — Vanderbilt University (Coursera)  
+- 🌐 **Cisco CCNA** certified  
+- 📡 **Embedded Systems** — Certificate of Completion  
+- 🎖️ Samsung Galaxy AI Treasure Hunt — Certificate of Participation  
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Currently Looking For
 
-<div align="center">
+> Open to: **AI Engineer · GenAI Engineer · Full-Stack AI · Founding Engineer** roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyan-pal)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyan826905@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917557035217)
+If you're building something serious with **agentic AI, RAG, LangGraph, or multi-agent orchestration** — let's talk.
 
-</div>
+📩 **shreyan826905@gmail.com** | 💼 [LinkedIn](https://www.linkedin.com/in/shreyan-pal)
+
+---
+
+## 🗺️ Keyword Index *(for discoverability)*
+
+`agentic-ai` `multi-agent-systems` `langgraph` `langchain` `google-adk` `fastapi` `rag` `retrieval-augmented-generation` `pgvector` `llm` `generative-ai` `python` `react` `aws` `docker` `postgresql` `graphql` `n8n` `workflow-automation` `prompt-engineering` `ai-engineer` `genai` `production-ai` `enterprise-ai` `fintech-ai` `banking-ai`
 
 ---
 
 <div align="center">
 
-*"From EMG signals to multi-agent AI systems — I build things that actually work."*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a3e,100:0f0f23&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" width="100%"/>
+*"I don't build demos. I build things that run."*
 
 </div>
