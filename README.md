@@ -154,7 +154,7 @@ Core contributor to memlocal — an on-device memory system that slashes LLM inf
 | 🏍️ **Grand Finalist** — TVS Motor Innovation Challenge 2024 | IIT Madras · 500+ competing teams |
 | 🌟 **Top 50** — Tata Imagination Challenge 2024 | Pan-India Innovation Competition |
 | 📡 **Cisco Networking Certification** | Top of Batch |
-| 🏗️ **Co-built EdTech SaaS on AWS** from scratch | @ AppsForBharat |
+| 🏗️ **Co-built EdTech SaaS on AWS** from scratch | @ Dreadnought |
 | 📞 **20,000+ Cold Calls** to CFOs/VPs | LATAM & EMEA markets |
 | 🧠 **Founder Recognition** | AppsForBharat |
 
@@ -163,10 +163,11 @@ Core contributor to memlocal — an on-device memory system that slashes LLM inf
 ## 💼 Experience Snapshot
 
 ```
-💼 Capgemini           Software Engineer          Bengaluru, IN       2025 – Present
-🌱 AppsForBharat       Full Stack Developer        Remote              2024
-📊 HighRadius          Intern                     Remote              2024  
-⚙️ SAIL                Industrial Training        Rourkela, IN        2023
+ Capgemini           Software Engineer          Bengaluru, IN       2025 – Present
+ AppsForBharat       Software Operations        Bengaluru, IN       May'25- Sept'25
+ HighRadius          ABM Intern                 Bhubaneswar, IN     May'24 - Jan'25
+ Dreadnought         Junior SDE Intern          Remote              Mar'24 - May'24
+ SAIL                Industrial Training        Rourkela, IN        2023
 ```
 
 ---
